@@ -36,6 +36,7 @@ navLinks =
     column
         [ width fill, spacing 20 ]
         [ viewLink "Blog" Route.Blog
+        , viewLink "About" Route.About
         , viewLink "Resume" Route.Resume
         , viewLink "Projects" Route.Projects
         ]
